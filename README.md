@@ -6,33 +6,33 @@ Diese Repository enthält die Parteiprogramme für die Bundestagswahl 2025 in ma
 
 ## Intention dieses Projekts
 
-🔍 Ziel ist es, alternative Zugänge und Analysemöglichkeiten zu den verschiedenen Perspektiven zu eröffnen - u.a. durch Künstliche Intelligenz (Generative AI):
+🔍 Ziel ist es, alternative Zugänge und Analysemöglichkeiten zu den verschiedenen Parteiperspektiven zu eröffnen - u.a. durch Künstliche Intelligenz (KI):
 
-- **Keine Ersetzung**: Dies ist KEIN Ersatz für:
+- **Keine Ersetzung**: Dies ist KEIN Ersatz, vielmehr Ergänzung für:
   - Originale Parteiprogramme
   - Persönliche politische Meinungsbildung
-  - Wahlomat
+  - Services wie den Wahl-O-mat
 
 - **Ergänzende Perspektiven**:
   - Experimentelle Analyse-Möglichkeiten
-  - Technische Exploration
+  - Technische Untersuchungen
   - Vergleichende Textanalyse
   - Wissenschaftliche Forschung
 
 ## Methodik
 
-- Konvertierung der PDFs mittels jina.ai Reader Service (Default-Einstellungen)
+- Konvertierung der PDFs mittels jina.ai Reader Service (Standard-Einstellungen)
 - **Wichtiger Hinweis**: Es erfolgte keine systematische Überprüfung der Vollständigkeit oder Korrektheit der Konvertierung
 - Neutrale Aufbereitung
 - Offene Zugänglichkeit
 
-## Use Cases und Anwendungsmöglichkeiten
+## Nutzungsmöglichkeiten
 
-🚀 Kreative Nutzungsszenarien für die Parteiprogramme:
+🚀 Kreative Anwendungsszenarien für die Parteiprogramme:
 
 ### Einzelanalyse
-- Detaillierte Exploration eines einzelnen Parteiprogramms
-- Thematische Tiefenanalyse mittels Large Language Models
+- Detaillierte Untersuchung eines einzelnen Parteiprogramms
+- Thematische Tiefenanalyse mittels KI-Modellen
 
 ### Vergleichende Analysen
 - Kombination von zwei bis allen Parteiprogrammen
@@ -41,14 +41,14 @@ Diese Repository enthält die Parteiprogramme für die Bundestagswahl 2025 in ma
 
 ### Interaktive Simulation
 - Erstellen von KI-basierten Dialogen zwischen "Parteien"
-- Hinzufügen mehrerer Parteiprogramme in einen LLM-Chat
+- Hinzufügen mehrerer Parteiprogramme in einen KI-Chat
 - Simulierte politische Diskussionen und Debatten
 
-### Sprachliche Flexibilität
+### Sprachliche Vielfalt
 - Abfragen der Dokumente in beliebigen Sprachen
 - Übersetzung und Analyse über Sprachgrenzen hinweg
 
-**Wichtig**: Alle Nutzungen dienen dem experimentellen Lernen und der Exploration – nicht der Meinungsbildung!
+**Wichtig**: Alle Nutzungen dienen dem experimentellen Lernen und der Erkundung – nicht der Meinungsbildung!
 
 ## Quellen der Originaldokumente
 
@@ -81,7 +81,3 @@ Diese Repository enthält die Parteiprogramme für die Bundestagswahl 2025 in ma
 ### VOLT Deutschland
 - Webseite: https://voltdeutschland.org/programm/programme/programme-positionen
 - Programm: https://voltdeutschland.org/storage/assets-btw25/volt-programm-bundestagswahl-2025.pdf
-
-## Lizenz
-
-[Ihre gewählte Open-Source-Lizenz]
